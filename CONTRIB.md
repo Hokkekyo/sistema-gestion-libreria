@@ -1,4 +1,4 @@
-# Guía de colaboración – TP Integrador: Sistema de Gestión de Comercio
+# Guía de colaboración – TP Integrador: Sistema de gestión librería
 
 *Este archivo define cómo colaborar correctamente en el proyecto para evitar*
 *conflictos y trabajar de forma ordenada entre los integrantes del grupo.*
@@ -6,7 +6,7 @@
 ## Antes de empezar a trabajar:
 1. Entrá al directorio del proyecto:
 ```sh
-cd sistema-gestion-comercio/
+cd sistema-gestion-libreria/
 ```
 
 2. Traé la última versión del proyecto desde GitHub:

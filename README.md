@@ -1,7 +1,7 @@
-# TP Integrador – Sistema de Gestión de Comercio
+# TP Integrador – Sistema de Gestión librería
 
-Trabajo práctico integrador de la materia **Programación I (UTN)**.  
-El objetivo es desarrollar un sistema de gestión para un comercio, trabajando en equipo utilizando Git y C++.
+Trabajo práctico integrador de la materia **Programación II (UTN)**.  
+El objetivo es desarrollar un sistema de gestión para una librería, trabajando en equipo utilizando Git y C++.
 
 ## Tecnologías
 - Lenguaje: C++
@@ -12,7 +12,8 @@ El objetivo es desarrollar un sistema de gestión para un comercio, trabajando e
 ```text
 • Luciano (Hokkeyo)
 • Javier (JaviHuido)
-• Melina (melinamarconi)
+• Mateo ()
+• Tomas ()
 ```
 
 
@@ -30,17 +31,15 @@ sistema-gestion-comercio/
 ## 📌 Tareas en progreso
 ```text
 - [x] Crear estructura base del proyecto
-- [x] Hacer diagramas iniciales (flujo, lógica, menú, etc.)
-- [x] Dividir tareas entre integrantes
-- [x] Desarrollar funcionalidades mínimas
-- [x] Implementar validaciones y reportes
-- [X] Testear el programa en las tres computadoras
+- [ ] Hacer diagramas iniciales (flujo, lógica, menú, etc.)
+- [ ] Dividir tareas entre integrantes
+- [ ] Desarrollar funcionalidades mínimas
+- [ ] Implementar validaciones y reportes
+- [ ] Testear el programa en las tres computadoras
 ```
 
 ## 📝 Notas
 ```text
 - El sistema se ejecuta por consola.
-- Los datos se mantienen en memoria mientras el programa está en ejecución.
-- No se utilizan archivos ni estructuras avanzadas (punteros, listas, etc.).
 - Se busca un código limpio, modular y bien comentado.
 ```
