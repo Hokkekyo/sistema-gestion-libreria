@@ -3,7 +3,7 @@
 *Este archivo define cómo colaborar correctamente en el proyecto para evitar*
 *conflictos y trabajar de forma ordenada entre los integrantes del grupo.*
 
-## ✅ Checklist de configuración inicial
+## Checklist de configuración inicial
 
 Antes de empezar a colaborar, asegurate de tener todo listo:
 
