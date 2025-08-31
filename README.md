@@ -19,7 +19,7 @@ El objetivo es desarrollar un sistema de gestión para una librería, trabajando
 
 ## Estructura del proyecto
 ```markdown
-sistema-gestion-comercio/
+sistema-gestion-libreria/
 │
 ├── src/              → Código fuente principal (main.cpp, funciones.cpp)
 ├── include/          → Archivos de cabecera (.h)
