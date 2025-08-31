@@ -19,10 +19,14 @@ Antes de empezar a colaborar, asegurate de tener todo listo:
     https://github.com/settings/tokens
 
 4. Guardar el token con Git Credential Manager (Windows):
+```sh
 git config --global credential.helper manager-core
+```
 
 5. Clonar el repositorio:
+```sh
 git clone https://github.com/<usuario>/<repo>.git
+```
 
 6. Verificar que podés hacer git pull y git push sin que te pida usuario/contraseña
 
