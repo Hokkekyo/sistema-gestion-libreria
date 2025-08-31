@@ -3,6 +3,30 @@
 *Este archivo define cómo colaborar correctamente en el proyecto para evitar*
 *conflictos y trabajar de forma ordenada entre los integrantes del grupo.*
 
+## ✅ Checklist de configuración inicial
+
+Antes de empezar a colaborar, asegurate de tener todo listo:
+
+1. Tener Git instalado  
+   [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+2. Configurar tu nombre y correo para los commits:
+   ```sh
+   git config --global user.name "TuNombre"
+   git config --global user.email "tu@email.com"
+
+3. Generar tu token personal en GitHub
+    https://github.com/settings/tokens
+
+4. Guardar el token con Git Credential Manager (Windows):
+git config --global credential.helper manager-core
+
+5. Clonar el repositorio:
+git clone https://github.com/<usuario>/<repo>.git
+
+6. Verificar que podés hacer git pull y git push sin que te pida usuario/contraseña
+
+
 ## Antes de empezar a trabajar:
 1. Entrá al directorio del proyecto:
 ```sh
