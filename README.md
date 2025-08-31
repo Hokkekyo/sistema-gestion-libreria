@@ -35,7 +35,7 @@ sistema-gestion-libreria/
 - [ ] Dividir tareas entre integrantes
 - [ ] Desarrollar funcionalidades mínimas
 - [ ] Implementar validaciones y reportes
-- [ ] Testear el programa en las tres computadoras
+- [ ] Testear el programa en las 4 computadoras
 ```
 
 ## 📝 Notas
