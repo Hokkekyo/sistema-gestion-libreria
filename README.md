@@ -1,4 +1,4 @@
-# TP Integrador – Sistema de Gestión librería
+# TP Integrador – Sistema de gestión librería
 
 Trabajo práctico integrador de la materia **Programación II (UTN)**.  
 El objetivo es desarrollar un sistema de gestión para una librería, trabajando en equipo utilizando Git y C++.
