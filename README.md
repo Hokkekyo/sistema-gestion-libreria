@@ -13,7 +13,7 @@ El objetivo es desarrollar un sistema de gestión para una librería, trabajando
 • Luciano (Hokkeyo)
 • Javier (JaviHuido)
 • Mateo ()
-• Tomas ()
+• Tomas (DetsuDev)
 ```
 
 
